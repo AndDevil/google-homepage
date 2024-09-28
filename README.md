@@ -20,3 +20,9 @@ You can view the live project [here](link-to-your-live-project).
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/google-homepage-clone.git
+
+## License
+
+This project is licensed under the MIT License - see the LICENSE file for details
+Make sure to update the link in the **Demo** section if you're hosting the project. Save this as `README.md` in your GitHub repository.
+
