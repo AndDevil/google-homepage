@@ -23,6 +23,6 @@ You can view the live project [here](link-to-your-live-project).
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE file for details
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/AndDevil/google-homepage/blob/main/LICENSE) file for details
 Make sure to update the link in the **Demo** section if you're hosting the project. Save this as `README.md` in your GitHub repository.
 
