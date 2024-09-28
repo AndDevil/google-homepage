@@ -13,7 +13,7 @@ A simple, responsive clone of Google's homepage built using HTML and CSS. This p
 
 ## Demo
 
-You can view the live project [here]([link-to-your-live-project](https://onthe-hellroad-600307.netlify.app/)).
+You can view the live project [here]([link-to-your-live-project](https://onthe-hellroad-600307.netlify.app/).
 
 ## Installation
 
