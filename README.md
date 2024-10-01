@@ -8,8 +8,8 @@ A simple, responsive clone of Google's homepage built using HTML and CSS. This p
 - Compatible with all modern browsers
 
 ## Technologies Used
-- HTML5
-- CSS3 (Flexbox, Media Queries)
+- HTML
+- CSS
 
 ## Demo
 
@@ -19,7 +19,7 @@ You can view the live project [here](https://onthe-hellroad-600307.netlify.app/)
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/google-homepage-clone.git
+   git clone https://github.com/AndDevil/google-homepage.git
 
 ## License
 
